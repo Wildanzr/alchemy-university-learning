@@ -1,0 +1,3 @@
+[submodule "blockexplorer"]
+	path = blockexplorer
+	url = https://github.com/alchemyplatform/blockexplorer

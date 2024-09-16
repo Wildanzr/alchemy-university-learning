@@ -13,5 +13,6 @@ Alchemy University offers in-depth learning on blockchain technologies, smart co
   - Ethereum nodes
   - Ethereum transactions
   - Code transactions
+  - Block explorer
 
 - Week 2 Front-end Libraries
