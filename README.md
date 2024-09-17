@@ -8,11 +8,15 @@ Alchemy University offers in-depth learning on blockchain technologies, smart co
 
 ### Courses Covered
 
-- Week 2 Ethereum Transactions
+- Week 3 Ethereum
 
   - Ethereum nodes
   - Ethereum transactions
   - Code transactions
   - Block explorer
 
-- Week 2 Front-end Libraries
+- Week 4 Smart Contract Basics
+  - Syntax
+  - Functions
+  - Smart Contract Communication
+  - Intro to Hardhat

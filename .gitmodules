@@ -1,3 +1,6 @@
 [submodule "blockexplorer"]
 	path = blockexplorer
 	url = https://github.com/alchemyplatform/blockexplorer
+[submodule "hardhat-intro"]
+	path = hardhat-intro
+	url = git@github.com:PaulRBerg/hardhat-template.git
